@@ -1,4 +1,4 @@
-# Probabilistic_AI_Projects
+# Probabilistic Artificial Intelligence Projects
 This project was conducted for a Probabilistic Artificial Intelligence course (Msc.) at ETH Zurich.
 
 ### Task 1: Gaussian Process Regression for ground-water pollution prediction
